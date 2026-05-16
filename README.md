@@ -197,7 +197,7 @@ Learning:
 
 ### Open to:
 
-`AI Engineering Roles` • `GenAI Projects` • `Open Source` • `Research Collaborations`
+`AI Engineering ` • `GenAI Projects` • `Open Source` • `Research Collaborations`
 
 <br/>
 
