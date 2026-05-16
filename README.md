@@ -1,90 +1,216 @@
-<h1 align="center">Hi, I'm Yuvraj Sankilwar 👋</h1>
+
+# <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=220&section=header&text=Yuvraj%20Sankilwar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20%7C%20Agentic%20AI%20Engineer&descAlignY=58"/>
+
+### ⚡ Building AI systems that think, plan, and act.
 
 <p align="center">
-  🎓 CSE (AI & ML) Student &nbsp;•&nbsp;
-  💻 Full-Stack Developer &nbsp;•&nbsp;
-  🤖 AI/ML Enthusiast &nbsp;•&nbsp;
-  ⚙️ DevOps Learner
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=4F9CF9&center=true&vCenter=true&width=750&lines=Agentic+AI+Systems+%7C+Multi-Agent+Orchestration;RAG+Pipelines+%7C+LLM+Evaluation+Frameworks;LangGraph+%7C+Temporal+%7C+FastAPI+%7C+Distributed+AI;Building+real-world+AI+that+executes+tasks+autonomously."/>
 </p>
 
 <p align="center">
-  📍 India
+  <a href="https://linkedin.com/in/yuvraj-sankilwar">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/yuvraj-sankilwar">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
+  <a href="mailto:yuvrajsankilwar.contact@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://yuvraj-sankilwar.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5757?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+# 🧠 About Me
+
+```python
+class YuvrajSankilwar:
+
+    def __init__(self):
+        self.role = "GenAI & Agentic AI Engineer"
+        self.location = "Bengaluru, India"
+        self.education = "B.Tech CSE (AI & ML) — VIIT Pune"
+        self.graduating = 2026
+
+        self.focus = [
+            "Agentic AI Platforms",
+            "RAG Architectures",
+            "LLM Evaluation Systems",
+            "Workflow Automation",
+            "Multi-Agent Orchestration"
+        ]
+
+        self.philosophy = (
+            "Don't build AI that responds. "
+            "Build AI that acts."
+        )
+
+    def current_state(self):
+        return "Building autonomous AI systems for real-world execution."
+```
+
+---
+
+# ⚙️ Tech Stack
+
+## 🤖 AI / Agentic Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+</p>
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
+![Temporal](https://img.shields.io/badge/Temporal-000000?style=flat-square)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG_Systems-8B5CF6?style=flat-square)
+![OpenFGA](https://img.shields.io/badge/OpenFGA-4A90D9?style=flat-square)
+
+---
+
+## 🧱 Backend & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,docker,kubernetes,aws,redis,postgres,mongodb,kafka,rabbitmq"/>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 🚀 Featured Projects
 
-I am a **Computer Science Engineering (AI & ML)** student with a strong interest in building  
-**scalable web applications**, **AI-powered systems**, and **cloud-ready solutions**.
+## 🔬 Pariksha — AI Exam Evaluation Engine
 
-I enjoy taking ideas from concept to production by:
-- Designing clean backends and intuitive frontends  
-- Integrating machine learning models into real applications  
-- Deploying and scaling systems using modern DevOps practices  
+> *Subjective answers, objectively scored.*
 
-I am always eager to **learn**, **improve**, and **solve real-world problems** through technology.
+Built a GenAI evaluation pipeline that:
 
----
+* extracts handwritten answers using OCR
+* evaluates responses using LLM reasoning
+* generates transparent scoring justifications
+* enables educator review workflows
 
-## 🛠️ Tech Stack
+### Stack
 
-### 💻 Programming
-- Python • JavaScript • Java • SQL
-
-### 🌐 Web Development
-- MERN Stack (MongoDB, Express, React, Node.js)  
-- HTML • CSS • Tailwind CSS
-
-### 🤖 Machine Learning & AI
-- TensorFlow • PyTorch • Scikit-learn  
-- FastAPI
-
-### ⚙️ DevOps & Cloud
-- Docker • Kubernetes  
-- CI/CD: GitHub Actions, Jenkins  
-- AWS: EC2, S3
-
-### 🗄️ Databases & Tools
-- MongoDB • MySQL  • PostgreSQL 
-- Git • GitHub
+`FastAPI` `Gemini` `OCR` `MongoDB` `Redis`
 
 ---
 
-## 🚀 Projects
+## 🌾 AgroPulse — Wheat Disease Detection
 
-### 🔹 **Pariksha** – Automated Subjective Answer Evaluation
-- Built an AI-driven evaluation pipeline using **FastAPI, Redis, MongoDB**, and **Google Gemini**
-- Designed OCR and evaluation workers to assess handwritten answers
-- Implemented transparent reasoning logs (`evaluatorThought`)
-- Enabled structured scoring with manual review support for educators
+> *Deep learning in the field.*
 
----
+TensorFlow-powered disease classification platform:
 
-### 🔹 **Devmatrix** – EdTech Platform
-- Full-stack platform for tutors to manage courses and blogs
-- Built using **Node.js** and **MongoDB**
-- Deployed on **Netlify**
-- Implemented secure authentication and structured data models
+* deployed on AWS EC2
+* Dockerized for scalable inference
+* integrated with S3 model storage
+
+### Stack
+
+`TensorFlow` `FastAPI` `Docker` `AWS`
 
 ---
 
-### 🔹 **AgroPulse** – Wheat Disease Detection
-- Developed a wheat leaf disease detection system using **TensorFlow**
-- Backend powered by **FastAPI**
-- Deployed on **AWS EC2**, models stored in **AWS S3**
-- Dockerized for scalable and consistent deployment
+## 📚 Devmatrix — EdTech Platform
+
+> *Where tutors build courses, not headaches.*
+
+Full-stack platform enabling:
+
+* course publishing
+* blog management
+* secure authentication
+* structured educational workflows
+
+### Stack
+
+`React` `Node.js` `MongoDB` `Netlify`
 
 ---
 
-## 🌐 Connect With Me
+# 📈 GitHub Analytics
 
-- 📧 **Email:** yuvrajsankilwar.contact@gmail.com  
-- 💼 **LinkedIn:** https://linkedin.com/in/yuvraj-sankilwar  
-- 🌐 **Portfolio:** https://yuvraj-sankilwar.netlify.app  
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvraj-sankilwar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F9CF9&icon_color=4F9CF9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvraj-sankilwar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=4F9CF9"/>
+
+<img src="https://streak-stats.demolab.com?user=yuvraj-sankilwar&theme=tokyonight&hide_border=true&background=0D1117&stroke=4F9CF9&ring=4F9CF9&fire=FF5757&currStreakLabel=4F9CF9"/>
+
+</div>
 
 ---
 
-<p align="center">
-  ⭐ Feel free to explore my repositories and connect with me!
-</p>
+# 🧠 Engineering Philosophy
+
+<div align="center">
+
+### *“AI should execute workflows, not just generate text.”*
+
+</div>
+
+I’m focused on building systems where:
+
+* LLMs reason through complex tasks
+* agents coordinate tools autonomously
+* workflows recover from failure
+* memory enables long-term context
+* orchestration systems scale reliably
+
+I care about real-world execution — not AI wrappers.
+
+---
+
+# 🌍 Current Focus
+
+```yaml
+Building:
+  - Multi-agent orchestration systems
+  - Long-term memory architectures
+  - Autonomous workflow execution
+  - Production-grade RAG pipelines
+  - LLM evaluation & observability
+
+Learning:
+  - Distributed systems
+  - AI infrastructure
+  - Kubernetes for GenAI
+  - Agent reliability engineering
+```
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+### Open to:
+
+`AI Engineering Roles` • `GenAI Projects` • `Open Source` • `Research Collaborations`
+
+<br/>
+
+<a href="https://linkedin.com/in/yuvraj-sankilwar">
+  <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=120&section=footer"/>
+
+</div>
